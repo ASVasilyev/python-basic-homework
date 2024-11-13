@@ -16,7 +16,6 @@ def power_numbers(*args):
         result.append(i ** 2)
     return result
 
-a = 'asv'
 
 # filter types
 ODD = "odd"
