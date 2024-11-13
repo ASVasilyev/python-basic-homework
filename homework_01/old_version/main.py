@@ -16,7 +16,7 @@ def power_numbers(*args):
         result.append(i ** 2)
     return result
 
-
+str = 'Просто строка для проверки работы GIT'
 
 # filter types
 ODD = "odd"
