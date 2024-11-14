@@ -24,7 +24,7 @@ EVEN = "even"
 PRIME = "prime"
 
 def my_is_prime(number):
-    if isprime(number) == True:
+    if isprime(number):
         return number
 
 def filter_numbers(list_numbers, type_filter):
